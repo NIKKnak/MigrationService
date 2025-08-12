@@ -4,7 +4,6 @@ using System.Text;
 using System.Xml.Linq;
 using Updater.Data;
 using Updater.Models;
-// Не так выводит стоимость валют
 
 namespace Updater.Services
 {
